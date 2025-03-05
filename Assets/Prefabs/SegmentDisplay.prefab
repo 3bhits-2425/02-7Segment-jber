@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6809049699274123530}
   - component: {fileID: 2550534705308030902}
   m_Layer: 0
-  m_Name: Cube (5)
+  m_Name: Cube D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -118,7 +118,7 @@ GameObject:
   - component: {fileID: 3863366862075799711}
   - component: {fileID: 2824721968914641802}
   m_Layer: 0
-  m_Name: Cube (6)
+  m_Name: Cube A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -239,13 +239,13 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 3343584823411997984}
-  - {fileID: 1675585754989193190}
-  - {fileID: 5842453791946503625}
-  - {fileID: 1079466963189634253}
-  - {fileID: 3528334420673654936}
-  - {fileID: 8189394745457912108}
   - {fileID: 4285835390990318020}
+  - {fileID: 3528334420673654936}
+  - {fileID: 5842453791946503625}
+  - {fileID: 8189394745457912108}
+  - {fileID: 1675585754989193190}
+  - {fileID: 1079466963189634253}
+  - {fileID: 3343584823411997984}
   - {fileID: 1557829208376970544}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -262,7 +262,7 @@ GameObject:
   - component: {fileID: 8898981004635467213}
   - component: {fileID: 8605028174745630803}
   m_Layer: 0
-  m_Name: Cube (3)
+  m_Name: Cube F
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -276,8 +276,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6312245703662799491}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -3, y: 3, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 3, y: 3, z: 0}
   m_LocalScale: {x: 5, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -367,7 +367,7 @@ GameObject:
   - component: {fileID: 6138145130198714113}
   - component: {fileID: 1297097429870115820}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Cube G
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -472,7 +472,7 @@ GameObject:
   - component: {fileID: 740963165383095855}
   - component: {fileID: 3154685728453119188}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Cube C
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -487,7 +487,7 @@ Transform:
   m_GameObject: {fileID: 7114576182521089246}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 3, y: -3, z: 0}
+  m_LocalPosition: {x: -3, y: -3, z: 0}
   m_LocalScale: {x: 5, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -592,7 +592,7 @@ Transform:
   m_GameObject: {fileID: 7446817856391856488}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1}
   m_LocalScale: {x: 20, y: 20, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -682,7 +682,7 @@ GameObject:
   - component: {fileID: 729316552908222945}
   - component: {fileID: 8310522836543120559}
   m_Layer: 0
-  m_Name: Cube (4)
+  m_Name: Cube B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -697,7 +697,7 @@ Transform:
   m_GameObject: {fileID: 8277673583992941421}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 3, y: 3, z: 0}
+  m_LocalPosition: {x: -3, y: 3, z: 0}
   m_LocalScale: {x: 5, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -787,7 +787,7 @@ GameObject:
   - component: {fileID: 8237088902649821132}
   - component: {fileID: 302763044202898580}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Cube E
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -802,7 +802,7 @@ Transform:
   m_GameObject: {fileID: 8482966643231006349}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -3, y: -3, z: 0}
+  m_LocalPosition: {x: 3, y: -3, z: 0}
   m_LocalScale: {x: 5, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
