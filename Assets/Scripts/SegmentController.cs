@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class SegmentController : MonoBehaviour
 {
-    public GameObject[] segments; // 7 Segmente (a-g) in richtiger Reihenfolge
+    public GameObject[] segments; // 7 Segmente (a-g) 
     public GameObject prefab;
     public Button rotateButton; // UI-Button zum Drehen
     public Color activeColor = Color.red;
@@ -48,7 +48,7 @@ public class SegmentController : MonoBehaviour
         if (prefab == null) return;
         float rotationAngle = isRotated ? -180f : 180f;
         prefab.transform.Rotate(0, rotationAngle, 0);
-        isRotated = !isRotated; // Zustand umkehren
+        isRotated = !isRotated; 
         Debug.Log("RotateObject aufgerufen!");
     }
 
